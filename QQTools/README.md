@@ -13,7 +13,7 @@
 
 ## 操作手册
 1. 运行`addlinker.exe` 文件
-2. 文件路径：输入前期准备的excel文件全路径；路径中的反斜杠(\)需要替换为正斜杠(/)
+2. 文件路径：输入前期准备的excel文件全路径；路径中的反斜杠(`\`)需要替换为正斜杠(`/`)
     ![](img/文件路径.png)
     > 图中的路径 `‪C:\Astudy\Coder-py\QQ\qqNumber.xls` 就需要改为 `C:/Astudy/Coder-py/QQ/qqNumber.xls` 放在文件路径的位置
 3. 加好友按钮坐标：

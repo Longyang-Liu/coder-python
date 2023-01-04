@@ -1,8 +1,7 @@
 # coder-python
 
 #### 介绍
-python制作简单工具
-
+python demo
 #### 软件架构
 软件架构说明
 
